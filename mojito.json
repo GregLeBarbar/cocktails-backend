@@ -1,0 +1,17 @@
+{
+	"name": "Mojito",
+	"description": "Le mojito, prononcé [moˈxito] en espagnol, est un cocktail à base de rhum, de citron vert et de feuilles de menthe fraîche, né à Cuba dans les années 1910 et inspiré du mint julep.",
+	"image": "https://static.cuisineaz.com/610x610/i14978-recette-de-mojito.jpeg",
+	"ingredients": [{
+		"name": "perrier",
+		"quantity": "3"
+	},
+	{
+		"name": "citron",
+		"quantity": "2"
+	},
+	{
+		"name": "sucre",
+		"quantity": "1"
+	}]
+}
