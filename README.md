@@ -58,4 +58,7 @@ Un autre moyen est de faire des requêtes HTTP (en utilisant la librairie python
 
 Exemple:
 
-`http --json POST http://127.0.0.1:8000/api/v1/cocktails/ < mojito.json` 
+`http --json POST http://127.0.0.1:8000/api/v1/cocktails/ < data/mojito.json`
+`http --json POST http://127.0.0.1:8000/api/v1/cocktails/ < data/margarita.json`
+`http --json POST http://127.0.0.1:8000/api/v1/cocktails/ < data/sour.json`
+

@@ -1,0 +1,17 @@
+{
+	"name": "Margarita",
+	"description": "La Margarita est un cocktail à base de tequila, inventé par des Américains au Mexique. C'est un before lunch qui serait une version du cocktail daisy dans lequel on remplaça le brandy par de la téquila",
+	"image": "http://www.siroter.com/cocktails/frozen-margarita-cocktail-279.jpg",
+	"ingredients": [{
+		"name": "curaçao blanc",
+		"quantity": "3"
+	},
+	{
+		"name": "citron",
+		"quantity": "2"
+	},
+	{
+		"name": "tequila",
+		"quantity": "1"
+	}]
+}

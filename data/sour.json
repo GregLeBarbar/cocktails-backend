@@ -1,0 +1,17 @@
+{
+	"name": "Sour",
+	"description": "Le nom de cette boisson provient à la fois du Pisco, l'alcool utilisé et sour, mot anglais en référence à l'amertume du jus de citron et des composants édulcorants du cocktail.",
+	"image": "http://cdn.liquor.com/wp-content/uploads/2009/11/italian-grape-sour.jpg",
+	"ingredients": [{
+		"name": "pisco",
+		"quantity": "3"
+	},
+	{
+		"name": "citron vert",
+		"quantity": "1"
+	},
+	{
+		"name": "sucre",
+		"quantity": "2"
+	}]
+}
