@@ -39,14 +39,23 @@ Installer les dépendances
 `http://127.0.0.1:8000/api/v1/cocktails/`
 
 
-### Ajouter des nouveaux cocktails
-
-Exemple:
-
-`http --json POST http://127.0.0.1:8000/api/v1/cocktails/ < mojito.json` 
-
 ## CORS (Cross-Origin Resource Sharing)
 
 Le package django-cors-headers ajoute les headers CORS aux réponses HTTP
 
+## Accès à l'admin
 
+Pour modifier les données, on peut accéder à l'admin :
+
+http://127.0.0.1:8000/admin
+
+user: admin
+pwd: admin123
+
+## Ajouter des nouveaux cocktails
+
+Un autre moyen est de faire des requêtes HTTP (en utilisant la librairie python httpie):
+
+Exemple:
+
+`http --json POST http://127.0.0.1:8000/api/v1/cocktails/ < mojito.json` 
